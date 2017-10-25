@@ -356,3 +356,8 @@ Github: [TylerPhillipsDank](https://github.com/TylerPhillipsDank)
 Name: Kelsey Warner 
 Bio: Student
 Place: USA
+
+Name: William  
+Bio: Pharmacologist  
+Place: USA  
+Github: https://github.com/edgaewgeg  
